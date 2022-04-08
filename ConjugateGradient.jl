@@ -20,5 +20,6 @@ p = r
                 r = r_new
                 x_n = x_new
         end
+        return x_n;
 end 
 
